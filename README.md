@@ -1,2 +1,7 @@
-# AI_Resource
-resource about AI, Machine Learning, Deep Learning, Python...etc
+# AI_Resources
+resources about AI, Machine Learning, Deep Learning, Python...etc
+
+## AI
+## Machine Learning
+## Deep Learning
+## Python
