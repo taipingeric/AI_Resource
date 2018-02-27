@@ -8,6 +8,11 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 ## Data Processing
 [Why do we noramalize image by subtracting dataset's image mean](https://stats.stackexchange.com/questions/211436/why-do-we-normalize-images-by-subtracting-the-datasets-image-mean-and-not-the-c)
 ## Deep Learning
+### Nets Model
+#### ResNet
+* [ResNet：深度殘差網路](https://zh.gluon.ai/chapter_convolutional-neural-networks/resnet-gluon.html)
+#### DiracNet
+* [對比ResNet： 超深層網絡DiracNet的PyTorch實現](https://www.jiqizhixin.com/articles/2017-11-14-3)
 ### Data Augmentation
 * [深度學習中的Data Augmentation方法和代碼實現](https://absentm.github.io/2016/06/14/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84Data-Augmentation%E6%96%B9%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/)
 * [The Effectiveness of Data Augmentation in Image Classification using Deep
