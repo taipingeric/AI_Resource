@@ -10,7 +10,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 ## GAN
 * Ian Goodfellow's recommendation list:
 
-** 123
+  * 123
 
 *** 456
 ## Python
