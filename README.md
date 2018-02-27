@@ -12,9 +12,9 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 
   * [Progressive GANs](https://arxiv.org/abs/1710.10196): (probably the highest quality images so far) 
   
-  * [Spectral normalization](https://openreview.net/forum?id=B1QRgziT-&noteId=BkxnM1TrM):(got GANs working on lots of classes, which has been hard) 
+  * [Spectral normalization](https://openreview.net/forum?id=B1QRgziT-&noteId=BkxnM1TrM):(got GANs working on lots of classes, which has been hard)
   
-  * [Projection discriminator](https://openreview.net/forum?id=ByS1VpgRZ): (from the same lab as #2, both techniques work well together, overall give very good results with 1000 classes) Here’s the video of putting the two methods together: https://www.youtube.com/watch?time_continue=3&v=r6zZPn-6dPY 
+  * [Projection discriminator](https://openreview.net/forum?id=ByS1VpgRZ): (from the same lab as #2, both techniques work well together, overall give very good results with 1000 classes) Here’s the video of putting the two methods together: https://www.youtube.com/watch?time_continue=3&v=r6zZPn-6dPY 
   
   * [pix2pixHD](https://arxiv.org/abs/1711.11585) (GANs for 2-megapixel [video](https://www.youtube.com/watch?v=3AIpPlzM_qs&feature=youtu.be )) 
   
