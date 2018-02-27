@@ -9,3 +9,5 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 ## Deep Learning
 ## AI
 ## Python
+### Tensorflow
+[Slim 介紹](http://blog.csdn.net/mao_xiao_feng/article/details/73409975)
