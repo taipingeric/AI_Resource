@@ -11,4 +11,5 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 ## Python
 ### Tensorflow
 [Slim 介紹](http://blog.csdn.net/mao_xiao_feng/article/details/73409975)
+
 [Slim Nets List](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim/python/slim/nets)
