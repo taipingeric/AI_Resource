@@ -7,6 +7,13 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 [特徵工程到底是什麼？](https://www.zhihu.com/question/28641663/answer/110165221?utm_source=com.facebook.katana&utm_medium=social)
 ## Data Processing
 [Why do we noramalize image by subtracting dataset's image mean](https://stats.stackexchange.com/questions/211436/why-do-we-normalize-images-by-subtracting-the-datasets-image-mean-and-not-the-c)
+## Deep Learning
+### Data Augmentation
+* [深度學習中的Data Augmentation方法和代碼實現](https://absentm.github.io/2016/06/14/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84Data-Augmentation%E6%96%B9%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/)
+* [The Effectiveness of Data Augmentation in Image Classification using Deep
+Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
+### Optimizer
+* [深度學習最全優化方法總結比較（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
 ## GAN
 * [Ian Goodfellow's GAN recommendation list:](https://twitter.com/timnitGebru/status/968242968007200769)
 
