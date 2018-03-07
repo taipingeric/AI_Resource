@@ -6,10 +6,17 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [Data Processing](#data-processing)
   * [Text](#text)
       * [Parser](#parser)
-    
+      * [Dictionary](#dictionary)
+      * [Crawler](#crawler)
+* [Deep Learning](#deep-learning)
+    * [Nets Model](#nets-model)
+    * [Data Augmentation](#data-augmentation)
+    * [Optimizer](#optimizer)
+* [GAN](#gan)
+* [Python](#python)
+    *[Tensorflow](#tensorflow)
 
 
-[GAN](#GAN)
 # AI
 ## Machine Learning
 ### Feature Engineering
