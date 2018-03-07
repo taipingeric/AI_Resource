@@ -14,7 +14,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 #### Dictionary
 [LIDC](https://cliwc.weebly.com/liwc.html): 中文詞性、情緒分析
 [E-HowNet](http://ehownet.iis.sinica.edu.tw/index.php)：中文詞性、結構化分析、英文對應
-[Sinica NLPLab](http://academiasinicanlplab.github.io/): Java 文章情緒分析
+[Sinica NLPLab CSentiPackage](http://academiasinicanlplab.github.io/): Java 文章情緒分析
 #### crawler
 [PTT crawler](https://github.com/afunTW/ptt-web-crawler)
 ## Deep Learning
