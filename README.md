@@ -35,6 +35,8 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 
 [Sinica NLPLab CSentiPackage](http://academiasinicanlplab.github.io/): Java 文章情緒分析
 ### Word Vector
+[Gensim](https://radimrehurek.com/gensim/tutorial.html)
+
 [word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
 [Glove](https://nlp.stanford.edu/pubs/glove.pdf)
