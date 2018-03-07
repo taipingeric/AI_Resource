@@ -1,6 +1,8 @@
 # AI_Resources
 resources about AI, Machine Learning, Deep Learning, Python...etc
 
+[Machine Learning](#machine-learning)
+[GAN](#GAN)
 # AI
 ## Machine Learning
 ### Feature Engineering
