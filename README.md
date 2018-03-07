@@ -8,9 +8,9 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
       * [Parser](#parser)
       * [Dictionary](#dictionary)
       * [Crawler](#crawler)
+      * [Data Augmentation](#data-augmentation)
 * [Deep Learning](#deep-learning)
     * [Nets Model](#nets-model)
-    * [Data Augmentation](#data-augmentation)
     * [Optimizer](#optimizer)
 * [GAN](#gan)
 * [Python](#python)
@@ -33,16 +33,16 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 [Sinica NLPLab CSentiPackage](http://academiasinicanlplab.github.io/): Java 文章情緒分析
 #### crawler
 [PTT crawler](https://github.com/afunTW/ptt-web-crawler)
+### Data Augmentation
+[深度學習中的Data Augmentation方法和代碼實現](https://absentm.github.io/2016/06/14/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84Data-Augmentation%E6%96%B9%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/)
+[The Effectiveness of Data Augmentation in Image Classification using Deep
+Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 ## Deep Learning
 ### Nets Model
 #### ResNet
 * [ResNet：深度殘差網路](https://zh.gluon.ai/chapter_convolutional-neural-networks/resnet-gluon.html)
 #### DiracNet
 * [對比ResNet： 超深層網絡DiracNet的PyTorch實現](https://www.jiqizhixin.com/articles/2017-11-14-3)
-### Data Augmentation
-* [深度學習中的Data Augmentation方法和代碼實現](https://absentm.github.io/2016/06/14/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84Data-Augmentation%E6%96%B9%E6%B3%95%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/)
-* [The Effectiveness of Data Augmentation in Image Classification using Deep
-Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 ### Optimizer
 * [深度學習最全優化方法總結比較（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
 ## GAN
