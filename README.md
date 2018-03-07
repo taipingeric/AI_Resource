@@ -34,6 +34,10 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 [E-HowNet](http://ehownet.iis.sinica.edu.tw/index.php)：中文詞性、結構化分析、英文對應
 
 [Sinica NLPLab CSentiPackage](http://academiasinicanlplab.github.io/): Java 文章情緒分析
+### Word Vector
+[word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+[Glove](https://nlp.stanford.edu/pubs/glove.pdf)
 #### crawler
 [PTT crawler](https://github.com/afunTW/ptt-web-crawler)
 ### Data Augmentation
