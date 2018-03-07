@@ -2,9 +2,11 @@
 resources about AI, Machine Learning, Deep Learning, Python...etc
 
 * [Machine Learning](#machine-learning)
- * [Feature Engineering](#feature-engineering)
+  * [Feature Engineering](#feature-engineering)
 * [Data Processing](#data-processing)
- * [Text](#text)
+  * [Text](#text)
+      * [Parser](#parser)
+    
 
 
 [GAN](#GAN)
