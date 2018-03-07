@@ -9,8 +9,11 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 [Why do we noramalize image by subtracting dataset's image mean](https://stats.stackexchange.com/questions/211436/why-do-we-normalize-images-by-subtracting-the-datasets-image-mean-and-not-the-c)
 ### Text
 #### parser
-[jieba 結巴](https://github.com/fxsjy/jieba)
-[中研院斷詞系統](http://ckipsvr.iis.sinica.edu.tw/)
+[jieba 結巴](https://github.com/fxsjy/jieba) : python 中文斷詞套件
+[中研院斷詞系統](http://ckipsvr.iis.sinica.edu.tw/): 需申請
+#### Dictionary
+[LIDC](https://cliwc.weebly.com/liwc.html): 中文詞性、情緒分析
+[E-HowNet](http://ehownet.iis.sinica.edu.tw/index.php)：中文詞性、結構化分析、英文對應
 #### crawler
 [PTT crawler](https://github.com/afunTW/ptt-web-crawler)
 ## Deep Learning
