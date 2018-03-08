@@ -66,8 +66,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
   * [Beginners Guide to Topic Modeling in Python](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
   * [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
   * [Latent Dirichlet Allocation](http://ai.stanford.edu/~ang/papers/nips01-lda.pdf)
-  * [LDA數學八卦](http://www.victoriawy.com/wp-content/uploads/2017/12/LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
-  * [手刻板 topic model](https://zhuanlan.zhihu.com/p/23114198)
+  * [LDA數學八卦](http://www.victoriawy.com/wp-content/uploads/2017/12/LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
+  * [手刻板 topic model](https://zhuanlan.zhihu.com/p/23114198)
 
 ## CNN
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
