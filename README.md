@@ -12,6 +12,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [Deep Learning](#deep-learning)
     * [Nets Model](#nets-model)
     * [Optimizer](#optimizer)
+* [CNN](#cnn)
 * [RNN](#rnn)
 * [GAN](#gan)
 * [NLP](#nlp)
