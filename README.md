@@ -69,13 +69,18 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
   * [LDA數學八卦](http://www.victoriawy.com/wp-content/uploads/2017/12/LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
   * [手刻板 topic model](https://zhuanlan.zhihu.com/p/23114198)
 
+## CNN
+* [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
+* [Best Practices for Document Classification with Deep Learning](https://machinelearningmastery.com/best-practices-document-classification-deep-learning/)
+* [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
+
 ## RNN
 * [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [LSTM RNN 循環神經網絡(LSTM) by 莫煩](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/2-4-LSTM/)
 * [DNN, CNN, RNN 比較](https://www.zhihu.com/question/34681168)
 * [Udacity RNN quick introduction](https://www.youtube.com/watch?time_continue=1&v=70MgF-IwAr8)
-* [LSTM Networks - The Math of Intelligence](Siraj Raval) : handcrafted by numpy
+* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) : handcrafted in numpy by Siraj Raval
 ## GAN
 * [Ian Goodfellow's GAN recommendation list:](https://twitter.com/timnitGebru/status/968242968007200769)
 
