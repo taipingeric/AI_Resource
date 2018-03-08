@@ -107,6 +107,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 ## Python
 ### Tensorflow
+[莫煩 Tensowflow 教學](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
+
 [Slim 介紹](http://blog.csdn.net/mao_xiao_feng/article/details/73409975)
 
 [Slim Nets List](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim/python/slim/nets)
