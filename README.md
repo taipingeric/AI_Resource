@@ -12,6 +12,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [Deep Learning](#deep-learning)
     * [Nets Model](#nets-model)
     * [Optimizer](#optimizer)
+* [RNN](#rnn)
 * [GAN](#gan)
 * [NLP](#nlp)
 * [Python](#python)
@@ -49,7 +50,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 
 [The Effectiveness of Data Augmentation in Image Classification using Deep
 Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
-## Deep Learning
+# Deep Learning
 ### Nets Model
 #### ResNet
 * [ResNet：深度殘差網路](https://zh.gluon.ai/chapter_convolutional-neural-networks/resnet-gluon.html)
@@ -67,6 +68,14 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
   * [Latent Dirichlet Allocation](http://ai.stanford.edu/~ang/papers/nips01-lda.pdf)
   * [LDA數學八卦](http://www.victoriawy.com/wp-content/uploads/2017/12/LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
   * [手刻板 topic model](https://zhuanlan.zhihu.com/p/23114198)
+
+## RNN
+* [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [LSTM RNN 循環神經網絡(LSTM) by 莫煩](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/2-4-LSTM/)
+* [DNN, CNN, RNN 比較](https://www.zhihu.com/question/34681168)
+* [Udacity RNN quick introduction](https://www.youtube.com/watch?time_continue=1&v=70MgF-IwAr8)
+* [LSTM Networks - The Math of Intelligence](Siraj Raval) : handcrafted by numpy
 ## GAN
 * [Ian Goodfellow's GAN recommendation list:](https://twitter.com/timnitGebru/status/968242968007200769)
 
