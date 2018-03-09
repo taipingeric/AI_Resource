@@ -105,6 +105,9 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
   
   * You should be a little bit aware of the “theory of GAN convergence” space, one of my favorites is https://arxiv.org/abs/1706.04156
 
+## Others
+* [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
+
 ## Python
 ### Tensorflow
 [莫煩 Tensowflow 教學](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
