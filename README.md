@@ -16,6 +16,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [RNN](#rnn)
 * [GAN](#gan)
 * [NLP](#nlp)
+* [RL](#rl)
 * [Python](#python)
     * [Tensorflow](#tensorflow)
 
@@ -104,6 +105,9 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
   * You should be a little bit aware of the “GANs with encoders” space, one of my favorites is https://arxiv.org/abs/1701.04722 
   
   * You should be a little bit aware of the “theory of GAN convergence” space, one of my favorites is https://arxiv.org/abs/1706.04156
+
+## RL
+[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
