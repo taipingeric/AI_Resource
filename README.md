@@ -116,6 +116,9 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [李弘毅 A3C](https://www.youtube.com/watch?time_continue=8&v=O79Ic8XBzvw)
 * [Denny Britz RL](https://github.com/dennybritz/reinforcement-learning)
 * [DDPG](https://arxiv.org/abs/1509.02971)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl) by aikorea
+* [How to write a reward function](https://www.youtube.com/watch?time_continue=541&v=0R3PnJEisqk) by bonsai
+
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
 
