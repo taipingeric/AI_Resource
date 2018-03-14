@@ -108,6 +108,10 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 ## RL
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[DQN從入門到放棄6 DQN的各種改進](https://zhuanlan.zhihu.com/p/21547911)
+[David Silver大神RL](https://www.youtube.com/watch?v=lfHX2hHRMVQ&index=2&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
+[Applied Deep Learning Machine Learning and Having It Deep and Structured](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
+[莫煩RL](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
