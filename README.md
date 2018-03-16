@@ -140,6 +140,9 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
 * [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 * [Mask R-CNN](http://forums.fast.ai/t/implementing-mask-r-cnn/2234)
+* [Yolo Paper](https://arxiv.org/abs/1506.02640)
+* [Yolo 9000 Paper](https://arxiv.org/abs/1612.08242)
+* [Project Yolo](https://pjreddie.com/darknet/yolo/)
 
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
