@@ -148,8 +148,10 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [YOLO9000: Better, Faster, Stronger論文筆記](https://www.jianshu.com/p/2d88bdd89ba0)
 * [YOLO2 - YAD2K](https://sanchom.wordpress.com/tag/average-precision/)
 ### Dataset
-* [Pascal VOC](): 20 classes
-* [Miscrosoft COCO](): 80 classes
+* [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/): 20 classes
+  * [tutorial](http://blog.csdn.net/weixin_35653315/article/details/71028523)
+* [Miscrosoft COCO](http://cocodataset.org/#home): 80 classes
+  * [tutorial](http://blog.csdn.net/u012905422/article/details/52372755)
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
 
