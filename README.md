@@ -124,6 +124,9 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [How to write a reward function](https://www.youtube.com/watch?time_continue=541&v=0R3PnJEisqk) by bonsai
 
 ## CV
+* [Awesome CV](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Tool for label data](https://github.com/tzutalin/ImageNet_Utils)
+* [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325): one stage detector
 ### Object Detection
 * [Selective Search for Object Recognition](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=UijlingsIJCV2013&bib=all.bib)
 * [CS231n Lecture 8 - Localization and Detection](https://www.youtube.com/watch?v=_GfPYLNQank&t=574s)
@@ -137,6 +140,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Keras on Faster R-CNN](https://zhuanlan.zhihu.com/p/28585873)
 * [How does the region proposal network (RPN) in Faster R-CNN work?](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
 * [AP: Average Precision](https://sanchom.wordpress.com/tag/average-precision/)
+* [Light head R-CNN](https://arxiv.org/abs/1711.07264)
+
 ### Model Implementation
 * [R-CNN](https://github.com/rbgirshick/rcnn)
 * [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
