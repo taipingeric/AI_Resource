@@ -78,7 +78,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
 * [Best Practices for Document Classification with Deep Learning](https://machinelearningmastery.com/best-practices-document-classification-deep-learning/)
 * [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
-
+* [What does 1x1 convolution mean?](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
+* [卷積神經網絡中用1*1 卷積有什麼作用或者好處呢？](https://www.zhihu.com/question/56024942)
 ## RNN
 * [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -135,6 +136,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [目標檢測之RCNN，SPP-NET，Fast-RCNN，Faster-RCNN](http://lanbing510.info/2017/08/24/RCNN-FastRCNN-FasterRCNN.html)
 * [Keras on Faster R-CNN](https://zhuanlan.zhihu.com/p/28585873)
 * [How does the region proposal network (RPN) in Faster R-CNN work?](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
+* [AP: Average Precision](https://sanchom.wordpress.com/tag/average-precision/)
 ### Model Implementation
 * [R-CNN](https://github.com/rbgirshick/rcnn)
 * [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
@@ -143,7 +145,11 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Yolo Paper](https://arxiv.org/abs/1506.02640)
 * [Yolo 9000 Paper](https://arxiv.org/abs/1612.08242)
 * [Project Yolo](https://pjreddie.com/darknet/yolo/)
-
+* [YOLO9000: Better, Faster, Stronger論文筆記](https://www.jianshu.com/p/2d88bdd89ba0)
+* [YOLO2 - YAD2K](https://sanchom.wordpress.com/tag/average-precision/)
+### Dataset
+* [Pascal VOC](): 20 classes
+* [Miscrosoft COCO](): 80 classes
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
 
