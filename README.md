@@ -18,6 +18,8 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [NLP](#nlp)
 * [RL](#rl)
 * [CV](#cv)
+   * [Object Detection](#object-detection)
+   * [Model Implementation](#model-implementation)
 * [Python](#python)
     * [Tensorflow](#tensorflow)
 
@@ -133,8 +135,11 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [目標檢測之RCNN，SPP-NET，Fast-RCNN，Faster-RCNN](http://lanbing510.info/2017/08/24/RCNN-FastRCNN-FasterRCNN.html)
 * [Keras on Faster R-CNN](https://zhuanlan.zhihu.com/p/28585873)
 * [How does the region proposal network (RPN) in Faster R-CNN work?](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
-* []()
-* []()
+### Model Implementation
+* [R-CNN](https://github.com/rbgirshick/rcnn)
+* [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
+* [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
+* [Mask R-CNN](http://forums.fast.ai/t/implementing-mask-r-cnn/2234)
 
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
