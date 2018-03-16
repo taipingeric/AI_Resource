@@ -125,6 +125,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 ## CV
 * [Awesome CV](https://github.com/jbhuang0604/awesome-computer-vision)
+* [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
 * [Tool for label data](https://github.com/tzutalin/ImageNet_Utils)
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325): one stage detector
 ### Object Detection
