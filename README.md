@@ -17,6 +17,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [GAN](#gan)
 * [NLP](#nlp)
 * [RL](#rl)
+* [CV](#cv)
 * [Python](#python)
     * [Tensorflow](#tensorflow)
 
@@ -118,6 +119,13 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [DDPG](https://arxiv.org/abs/1509.02971)
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl) by aikorea
 * [How to write a reward function](https://www.youtube.com/watch?time_continue=541&v=0R3PnJEisqk) by bonsai
+
+## CV
+### Object Detection
+* [Selective Search for Object Recognition](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=UijlingsIJCV2013&bib=all.bib)
+* [CS231n Lecture 8 - Localization and Detection](https://www.youtube.com/watch?v=_GfPYLNQank&t=574s)
+* [RCNN算法詳解](http://blog.csdn.net/shenxiaolu1984/article/details/51066975)
+* [RCNN- 將CNN引入目標檢測的開山之作](https://zhuanlan.zhihu.com/p/23006190)
 
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
