@@ -126,6 +126,15 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [CS231n Lecture 8 - Localization and Detection](https://www.youtube.com/watch?v=_GfPYLNQank&t=574s)
 * [RCNN算法詳解](http://blog.csdn.net/shenxiaolu1984/article/details/51066975)
 * [RCNN- 將CNN引入目標檢測的開山之作](https://zhuanlan.zhihu.com/p/23006190)
+* [原始圖片中的ROI如何映射到到feature map?](https://zhuanlan.zhihu.com/p/24780433)
+* [Fast RCNN算法詳解](http://blog.csdn.net/shenxiaolu1984/article/details/51036677)
+* [Fast R-CNN Author Slides](http://www.robots.ox.ac.uk/~tvg/publications/talks/fast-rcnn-slides.pdf)
+* [Kaming He & RGB: ResNet, R-CNN on CVPR 2017 ](https://www.youtube.com/watch?v=jHv37mKAhV4)
+* [目標檢測之RCNN，SPP-NET，Fast-RCNN，Faster-RCNN](http://lanbing510.info/2017/08/24/RCNN-FastRCNN-FasterRCNN.html)
+* [Keras on Faster R-CNN](https://zhuanlan.zhihu.com/p/28585873)
+* [How does the region proposal network (RPN) in Faster R-CNN work?](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
+* []()
+* []()
 
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
