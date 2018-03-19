@@ -80,6 +80,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
 * [What does 1x1 convolution mean?](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
 * [卷積神經網絡中用1*1 卷積有什麼作用或者好處呢？](https://www.zhihu.com/question/56024942)
+* [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
 ## RNN
 * [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
