@@ -142,7 +142,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [How does the region proposal network (RPN) in Faster R-CNN work?](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
 * [AP: Average Precision](https://sanchom.wordpress.com/tag/average-precision/)
 * [Light head R-CNN](https://arxiv.org/abs/1711.07264)
-
+### Semantic Segmentation
+* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211) paper
 ### Model Implementation
 * [R-CNN](https://github.com/rbgirshick/rcnn)
 * [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
