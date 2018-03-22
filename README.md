@@ -89,6 +89,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Udacity RNN quick introduction](https://www.youtube.com/watch?time_continue=1&v=70MgF-IwAr8)
 * [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) : handcrafted in numpy by Siraj Raval
 ## GAN
+* [The Gan Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [Ian Goodfellow's GAN recommendation list:](https://twitter.com/timnitGebru/status/968242968007200769)
 
   * [Progressive GANs](https://arxiv.org/abs/1710.10196): (probably the highest quality images so far) 
