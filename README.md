@@ -12,6 +12,7 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [Deep Learning](#deep-learning)
     * [Nets Model](#nets-model)
     * [Optimizer](#optimizer)
+    * [Initializer](#initializer)
 * [CNN](#cnn)
 * [RNN](#rnn)
 * [GAN](#gan)
@@ -63,6 +64,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [對比ResNet： 超深層網絡DiracNet的PyTorch實現](https://www.jiqizhixin.com/articles/2017-11-14-3)
 ### Optimizer
 * [深度學習最全優化方法總結比較（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
+### Initializer
+* [Xavier initializer](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 ## NLP
 * N-Gram
   * [Modeling Natural Language with N-Gram Models](https://sookocheff.com/post/nlp/n-gram-modeling/)
