@@ -84,6 +84,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [What does 1x1 convolution mean?](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
 * [卷積神經網絡中用1*1 卷積有什麼作用或者好處呢？](https://www.zhihu.com/question/56024942)
 * [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf): convolution, pooling, stride, transpose convolution
 ## RNN
 * [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -93,6 +94,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) : handcrafted in numpy by Siraj Raval
 ## GAN
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+* [OpenAI generative model](https://blog.openai.com/generative-models/)
+* [DCGAN](https://arxiv.org/abs/1511.06434)
 * [Ian Goodfellow's GAN recommendation list:](https://twitter.com/timnitGebru/status/968242968007200769)
 
   * [Progressive GANs](https://arxiv.org/abs/1710.10196): (probably the highest quality images so far) 
