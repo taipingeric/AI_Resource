@@ -168,6 +168,8 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
   * [tutorial](http://blog.csdn.net/weixin_35653315/article/details/71028523)
 * [Miscrosoft COCO](http://cocodataset.org/#home): 80 classes
   * [tutorial](http://blog.csdn.net/u012905422/article/details/52372755)
+### AOI
+* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
 
