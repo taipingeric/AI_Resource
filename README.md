@@ -27,6 +27,8 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 
 # AI
 ## Machine Learning
+### Courses
+[CS109](https://github.com/cs109/2015/tree/master/Lectures)
 ### Feature Engineering
 [特徵工程到底是什麼？](https://www.zhihu.com/question/28641663/answer/110165221?utm_source=com.facebook.katana&utm_medium=social)
 ## Data Processing
@@ -180,3 +182,5 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 [Slim 介紹](http://blog.csdn.net/mao_xiao_feng/article/details/73409975)
 
 [Slim Nets List](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim/python/slim/nets)
+### Numpy
+[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
