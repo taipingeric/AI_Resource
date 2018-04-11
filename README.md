@@ -21,6 +21,8 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 * [CV](#cv)
    * [Object Detection](#object-detection)
    * [Model Implementation](#model-implementation)
+* [Others](#others)
+   * [Alpha GO](#alpha-go)
 * [Python](#python)
     * [Tensorflow](#tensorflow)
 
@@ -174,6 +176,9 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
 ## Others
 * [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf): by Jeff Dean
+### Alpha GO
+* [Alpha Zero Cheetsheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
+* [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 
 ## Python
 ### Tensorflow
