@@ -28,6 +28,9 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 
 
 # AI
+## Math
+[Basic Math Symbols](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+[Tensor](https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32)
 ## Machine Learning
 ### Courses
 [CS109](https://github.com/cs109/2015/tree/master/Lectures)
