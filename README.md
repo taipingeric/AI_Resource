@@ -124,6 +124,7 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 
 ## RL
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 * [DQN從入門到放棄6 DQN的各種改進](https://zhuanlan.zhihu.com/p/21547911)
 * [David Silver大神RL](https://www.youtube.com/watch?v=lfHX2hHRMVQ&index=2&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 * [Applied Deep Learning Machine Learning and Having It Deep and Structured](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
