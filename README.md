@@ -10,9 +10,9 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
       * [Crawler](#crawler)
       * [Data Augmentation](#data-augmentation)
 * [Deep Learning](#deep-learning)
-    * [Nets Model](#nets-model)
+    * [Nets Model](#net-models)
     * [Optimizer](#optimizer)
-    * [Initializer](#initializer)
+    * [Initializer](#initializer)
 * [CNN](#cnn)
 * [RNN](#rnn)
 * [GAN](#gan)
@@ -25,6 +25,8 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
    * [Alpha GO](#alpha-go)
 * [Python](#python)
     * [Tensorflow](#tensorflow)
+    * [Numpy](#numpy)
+    * [Pandas](#pandas)
 
 
 # AI
@@ -66,16 +68,19 @@ resources about AI, Machine Learning, Deep Learning, Python...etc
 
 [The Effectiveness of Data Augmentation in Image Classification using Deep
 Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
+
 # Deep Learning
-### Nets Model
-#### ResNet
+
+### Net Models
 * [ResNet：深度殘差網路](https://zh.gluon.ai/chapter_convolutional-neural-networks/resnet-gluon.html)
-#### DiracNet
 * [對比ResNet： 超深層網絡DiracNet的PyTorch實現](https://www.jiqizhixin.com/articles/2017-11-14-3)
+
 ### Optimizer
 * [深度學習最全優化方法總結比較（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
+
 ### Initializer
 * [Xavier initializer](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+
 ## NLP
 * N-Gram
   * [Modeling Natural Language with N-Gram Models](https://sookocheff.com/post/nlp/n-gram-modeling/)
@@ -200,3 +205,6 @@ Learning](http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf)
 [Slim Nets List](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim/python/slim/nets)
 ### Numpy
 [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
+
+### Pandas
+[Selecting Subsets of Data in Pandas](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
